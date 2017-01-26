@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.1_33f7b36d7ce857293dc2056e1801e6e16c918844/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_54a3c88b08fe402ff4ad52259dcac326004f1f86/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.8.0_42c8639d1ba300455e10769d719ab7efdcdb6a55/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.1_7095bf772ca767db036cf9f57b086557ce2a847b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.8.0_a991171de2426516fcb65bb96e028cad7ecb3e4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.github.ViksaaSkool/AwesomeSplash/v1.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6924ef2127a1fb106d13d701c25b2688223c0fad">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ViksaaSkool-AwesomeSplash-v1.0.0_63b351a4d0f7366cebf2d178315484ff070b6600/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="388d4506e8c26f30cea50239550f902dcb37cb96">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f91e7c0ad12368c1d8bd708d3ce6712158a97328/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.8.0_fd5f17d24fece95303193e8477917752a070729b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b7a31a6455516afcdf726f1f8c3ea172e97e5552/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_3137c5a9f1eb1630de5c5e0f70298cbb497c56e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_ca4b1ba028b477dcbe779b7a16e05441467cc1ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d96358ab79e648da6d134dd6d295275c62b38772/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.daimajia.androidanimations/library/1.1.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8cec50fc9cc847bad0d6ed7d93814f4b34744521">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.androidanimations-library-1.1.3_bb3b1191f148c7b0fd09c7b6954e6a5ce15eae2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ba28d3acc7a3767eae70ef1a52ebc1c048658994/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e3a3d62fab67ccb83f386a4c092bfb5747ea15a7">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.ozodrukh-CircularReveal-1.1.1_ec2e4fb0f089d3809cefdfdd5969256cf4336c35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.8.0_5aa71ad67cd4782e6421c1fd2ded7d68367a8f2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_6deed8fc12e64bccb7dfb705ef7e30f14d742af4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.github.paolorotolo/appintro/3.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bb58484b10248cbf93dddee3d981d2e61f27f6e5">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.paolorotolo-appintro-3.3.0_32075ae7e10974b02ada93e90c4a209756a6f2d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.8.0_9a5757f7e523236b3836acc579224b259b6ca821/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-2.4.0_caa660dda70ad2a83a170281a0c73eb92824247d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.8.0_0ae46163f088b5acd07ab6a063880d48a0bb872e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_c787798004023418dd99dea20da51fca0af349b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.8.0_0d848972ac81e451d75cd58eda6dda437807ac66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.5.0/4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83/okhttp-3.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4b0bb6bfbecbdd42b97ff400af342bfe7f32bc83">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.5.0_65c311e23087f2d03d50b355a3e97e2777ae6235/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.4/695b63d702f505b9b916e02272e3b6381bade7f/gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.4_5b8e32f240ab3d384b99db3887b0945165f7eea9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_2dec6b8b8bd83a419c523104c88a93f3834a8b4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.8.0_0d9ea1f27747d31ced0dd912a8a5502d1626f23c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.8.0_07bff819fd8a9191e82b647365c6e46ba2370879/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.4.0/ea392375cf9ff59234a82e7928a204215ccc98cd/butterknife-annotations-8.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ea392375cf9ff59234a82e7928a204215ccc98cd">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.4.0_4c7750a0b430e5cd2882dd74e5b6b5a76109047f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.daimajia.easing/library/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7e947f993bf32a00fcb3078cdda8bb11c930afb">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.daimajia.easing-library-1.0.1_38e4afa25f4057afb2ccadba832876758b6aa236/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_69926fd259cd7002ba1d65b240566650babb0047/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.8.0_28bde0d1fabf08616f801fec0f166a511b93c98e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.8.0_602737af05b6435c62f96bf5f9664aefa25e1e44/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_d088bd0c139677f79fa28a8103e36204d01250df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.8.0_d1911516e2b6ff3b27dc515f13eaebf2737f882d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_b41daaf33579bba6048269dfcc0bd577e558f4d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.8.0_beeef1ecc493ed7809d3597da4033ce5d6af0cb0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.jakewharton/butterknife/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a07818a1ecabdb149998823429cce555af4b9cba">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.jakewharton-butterknife-8.4.0_6f662510c313cb6678b4e319e17ac150d1f591fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_78f8e77b07ce3a1489e3c02ffcb0b5f59373fe68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.8.0_364bf28d0a03e2eeeeb9e604e7606dba68ca3f26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.8.0_a0876a4229f7f288d9cb672334d6e35c0f038bb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_03ac41b78d29c8f076d82830a8fc2df375552db9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.github.boxme/squarecamera/1.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e6add4f1f3d3b756d615121b94a1a76ca038399">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.boxme-squarecamera-1.1.0_46abf01f90d1fb090d2cb50872bc45481c067c52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_ddc745f8134531106d0700debef1f80e0fb5ff27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c0c164043fbf826b199f0b6a31c0b290771e6184">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_6ab4c4085319b55dc32eeb45d2c7c9d342635c4d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_2b30e2f5f4f93727423040f96b7350deb3b8bad8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.1_190a2117e36a45ff021ccb6790b05d1ab4b8263d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/dev.dworks.libs/volleyplus/0.1.4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="3bf32f1b7d51d7e5f85d66b83e86b7becc084709">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/dev.dworks.libs-volleyplus-0.1.4_781770a187126208a11bb62d97d5584d488b896d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.github.jorgecastilloprz/fillableloaders/1.02/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09d89c0a8e2ba8d2fd5e7110d62bc6916d642567">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.github.jorgecastilloprz-fillableloaders-1.02_1e637b162eb1f9b8861033eab2014a28905679c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_d5058c80ce0d0d5d8f7161d03faefd79d0c11b9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_73c22c5839613d3cce3c32661031e66ee6bb1d18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="/Users/viseshprasad/Downloads/PBLCloset/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.8.0_8872b4ebda6f472da7eb3245064cd4fba48c5476/classes.dex" />
+    </item>
+
+</items>
